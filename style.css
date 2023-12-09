@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+    background-size: 100%;
+}
+
+#heading{
+    text-size-adjust: 100%;
+    color: aqua;
+}
+
+#input{
+    size: 1000px;
+}
